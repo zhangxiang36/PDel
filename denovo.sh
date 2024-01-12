@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Used to aanalyze outcome of gene-editing outcome by de novo assembling with NGS data
+# Used to analyze outcome of gene-editing outcome by de novo assembling with NGS data
 
 baseP=$1
 prefix=""

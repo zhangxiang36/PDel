@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Used to aanalyze outcome of gene-editing outcome by calling indel/SNP with NGS data
+# Used to analyze outcome of gene-editing outcome by calling indel/SNP with NGS data
 baseP=$1 # depending on data path in your own computer
 
 cd ${baseP}
