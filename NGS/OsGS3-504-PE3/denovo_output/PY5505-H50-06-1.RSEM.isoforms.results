@@ -1,0 +1,3 @@
+transcript_id	gene_id	length	effective_length	expected_count	TPM	FPKM	IsoPct
+TRINITY_GG_1_c0_g1_i1	TRINITY_GG_1_c0_g1	779	638.92	12263.18	870623.47	1517527.66	100.00
+TRINITY_GG_1_c0_g2_i1	TRINITY_GG_1_c0_g2	275	134.92	384.82	129376.53	225507.89	100.00
