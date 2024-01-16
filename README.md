@@ -24,9 +24,9 @@ To perform analysis of NGS data for indel/SNP, clone this repository and run
     │   ├── PY5473-H50-01-1-15.R1.fq.gz
     │   ├── PY5473-H50-03-1-23.R1.fq.gz
     │   └── Ref.txt
-    ├── OsGS3-PE3
-    │   ├── PY4448-H50-20-47.R1.fq.gz
-    │   ├── PY4448-H50-21-1-45.R1.fq.gz
+    ├── Waxy-PE3
+    │   ├── PY5466-H50-13-13.R1.fq.gz
+    │   ├── PY5466-H50-16-7.R1.fq.gz
     │   └── Ref.txt
     └── sample_annotation.xlsx
 
